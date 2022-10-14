@@ -20,7 +20,7 @@ body{
 }
 
 #cabecera{
-    background: #33A;
+    background: rgb(199, 11, 183);
     box-shadow: 0px 2px 15px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -35,7 +35,7 @@ body{
 }
 
 #post p{
-    color: rgb(17, 212, 17);
+    color: rgb(97, 13, 231);
 }
 
 #post h1{
