@@ -2,13 +2,13 @@ body{
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #333;
-    font-size: 16px;
+    font-size: 18px;
     margin:  0;
     padding: 0;
 }
 
 #container{
-    width: 70%;
+    width: 80%;
     padding: 0em;
     text-align: left;
     border: 1px solid #ddd;
@@ -35,7 +35,7 @@ body{
 }
 
 #post p{
-    color: rgb(97, 13, 231);
+    color: rgb(8, 2, 17);
 }
 
 #post h1{
